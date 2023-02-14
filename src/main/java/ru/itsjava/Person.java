@@ -8,11 +8,11 @@ public class Person {
     public String name;
     public int age;
 
-    void birthday() {
+    public void birthday() {
         age ++;
     }
 
-    boolean takeBeer(){
+    public boolean takeBeer(){
         return age > 18;
     }
 
