@@ -1,6 +1,5 @@
 package ru.itsjava.statics;
 
-import lombok.AllArgsConstructor;
 
 public class StaticPractice {
     public static void main(String[] args) {
