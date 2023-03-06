@@ -3,9 +3,7 @@ package ru.itsjava.figures;
 public abstract class Figure {
     final static double PI = 3.1415926535;
 
-    public Figure(){
 
-    }
 
     abstract void perimeter();
 
